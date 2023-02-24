@@ -33,7 +33,7 @@
 
 <img src="https://github.com/marqueseduarda/marqueseduarda/blob/main/github_githubstuff.png" alt="GitHub Stuff" width="180px" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqueseduarda&langs_count=8&layout=compact&theme=transparent)](https://github.com/marqueseduarda/github-readme-stats) <!-- ![General Stats](https://github-readme-stats.vercel.app/api?username=marqueseduarda&count_private=true&show_icons=false&theme=transparent) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marqueseduarda&langs_count=8&layout=compact&theme=nightowl)](https://github.com/marqueseduarda/github-readme-stats) ![General Stats](https://github-readme-stats.vercel.app/api?username=marqueseduarda&count_private=true&show_icons=false&theme=nightowl)
 
 <!-- END GITHUB STUFF -->
 
