@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-281259?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"/>
   </a>
 
-  <a href="[https://wa.me/5581985613870?text=Oie.%20Vim%20pelo%20Github...](https://www.instagram.com/dudssmarques/)"  target="_blank">
+  <a href="https://www.instagram.com/dudssmarques/"  target="_blank">
     <img src="https://img.shields.io/badge/Instagram-281259?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
