@@ -47,7 +47,7 @@
 <br>
 
 <div>
-  <img src="https://img.shields.io/badge/Windows-281259?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Windows-281259?style=for-the-badge&logo=windows&logoColor=white" disabled />
   
   <img src="https://img.shields.io/badge/HTML-281259?style=for-the-badge&logo=html5&logoColor=white" />
 
